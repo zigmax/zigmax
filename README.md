@@ -1,16 +1,13 @@
-## Hi there 👋
+<p align="center"><a href="https://zigmax.met">Website</a> • <a href="https://twitter.com/zig_max">Twitter</a> • <a href="https://www.linkedin.com/in/maximecoquerel/">LinkedIn</a> • <a href="https://zigmax.net/contact">Contact</a></p>
 
-<!--
-**zigmax/zigmax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
 
-Here are some ideas to get you started:
+Hi !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m Max, Microsoft MVP Azure & Security and Director Cloud Security Architecture in financial company based in Quebec City, Quebec, Canada.
+
+I absolutely love giving talks, sharing thoughts and having a good conversation with a group of like-minded people. If you’re interested let me know! [speaking](https://zigmax.net/speaking). 
+
+## My Work
+- [:pencil: Blog Posts](https://zigmax.net)
+- [:speaking_head: Presentations](https://zigmax.net/speaking/)
