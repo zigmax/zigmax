@@ -12,4 +12,3 @@ I absolutely love giving talks, sharing thoughts and having a good conversation 
 - [:pencil: Blog Posts](https://zigmax.net)
 - [:speaking_head: Presentations](https://zigmax.net/speaking/)
 - [:cloud: Microsoft MVP Azure & Security](https://mvp.microsoft.com/fr-FR/mvp/profile/71d6035a-5f2a-e711-810d-3863bb363e80)
-
